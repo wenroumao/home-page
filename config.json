@@ -21,22 +21,22 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://blog.wenroumao.com/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://blog.wenroumao.com/about/",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "",
-				"icon": "email",
-				"text": "Email"
+				"href": "https://blog.wenroumao.com/music/?id=2887240194&server=netease",
+				"icon": "musiclist",
+				"text": "Music"
 			},
 			"fourth": {
-				"href": "",
+				"href": "https://github.com/wenroumao",
 				"icon": "github",
 				"text": "Github"
 			}
