@@ -21,17 +21,17 @@
 		},
 		"ul": {
 			"first": {
-				"href": "https://blog.wenroumao.com/",
+				"href": "https://wenroumao.com/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "https://blog.wenroumao.com/about/",
+				"href": "https://wenroumao.com/about/",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "https://blog.wenroumao.com/music/?id=2887240194&server=netease",
+				"href": "https://wenroumao.com/music/?id=2887240194&server=netease",
 				"icon": "musiclist",
 				"text": "Music"
 			},
@@ -39,6 +39,26 @@
 				"href": "https://github.com/wenroumao",
 				"icon": "github",
 				"text": "Github"
+			},
+			"fifth": {
+				"href": "mailto:contact@wenroumao.com",
+				"icon": "email",
+				"text": "Email"
+			},
+			"sixth": {
+				"href": "",
+				"icon": "twitter",
+				"text": "Twitter"
+			},
+			"seventh": {
+				"href": "",
+				"icon": "instagram",
+				"text": "Instagram"
+			},
+			"eighth": {
+				"href": "",
+				"icon": "linkedin",
+				"text": "LinkedIn"
 			}
 		}
 	}
