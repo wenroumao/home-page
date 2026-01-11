@@ -8,7 +8,7 @@ npm run dev
 npm run build
 
 			"fifth": {
-				"href": "mailto:contact@wenroumao.com",
+				"href": "mailto:contact@wenroumao.cn",
 				"icon": "email",
 				"text": "Email"
 			},
