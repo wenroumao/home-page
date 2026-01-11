@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "野似o温柔猫",
+		"description": "Author:SimonAKing,Category:Personal Blog",
+		"favicon": "favicon.ico"
+	},
+	"intro": {
+		"title": "野似o温柔猫",
+		"subtitle": "Front back left right end engineer",
+		"enter": "enter",
+		"supportAuthor": false,
+		"background": true
+	},
+	"main": {
+		"name": "野似o温柔猫",
+		"signature": "Code & Input & Output",
+		"avatar": {
+			"link": "assets/avatar.webp",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://wenroumao.cn/",
+				"icon": "bokeyuan",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "https://wenroumao.cn/about/",
+				"icon": "xiaolian",
+				"text": "About"
+			},
+			"third": {
+				"href": "https://wenroumao.cn/music/?id=2887240194&server=netease",
+				"icon": "musiclist",
+				"text": "Music"
+			},
+			"fourth": {
+				"href": "https://github.com/wenroumao",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
